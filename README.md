@@ -2,6 +2,8 @@
 
 ## Overview
 This project is a decentralized application (dApp) for issuing and verifying certificates on the Ethereum blockchain. It consists of a Solidity smart contract, a React-based frontend, and uses Truffle for contract management and deployment. The dApp allows users to issue certificates (as hashes) and verify their authenticity in a trustless, tamper-proof manner.
+<img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/73bf2952-e62a-4b74-a22b-4798234fabf6" />
+<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/984c08a0-c087-4c1f-8306-fba8ce3c4ffc" />
 
 ---
 
